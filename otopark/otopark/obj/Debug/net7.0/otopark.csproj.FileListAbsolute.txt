@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/otopark/otopark/bin/Debug/net7.0/otopark
+/Users/beytullah/Projects/otopark/otopark/bin/Debug/net7.0/otopark.deps.json
+/Users/beytullah/Projects/otopark/otopark/bin/Debug/net7.0/otopark.runtimeconfig.json
+/Users/beytullah/Projects/otopark/otopark/bin/Debug/net7.0/otopark.dll
+/Users/beytullah/Projects/otopark/otopark/bin/Debug/net7.0/otopark.pdb
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.AssemblyInfo.cs
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.dll
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/refint/otopark.dll
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.pdb
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/otopark.genruntimeconfig.cache
+/Users/beytullah/Projects/otopark/otopark/obj/Debug/net7.0/ref/otopark.dll
