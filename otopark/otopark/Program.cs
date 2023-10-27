@@ -1,6 +1,6 @@
 using System;
 
-namespace deneme1111
+namespace otoparkodev
 {
     class Program
     {
