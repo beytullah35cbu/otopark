@@ -44,7 +44,7 @@ Kamyon için 2 saat 8 tl, sonraki her saat 2 tl, 8 saatten sonra günlük sabit 
                     {
                         ucret = 8;
                     }
-                    else if (kullanimSuresi <= 10)
+                    else if (kullanimSuresi <= 8)
                     {
                         ucret = 8 + (kullanimSuresi - 2) * 2;
                     }
@@ -61,7 +61,7 @@ Kamyon için 2 saat 8 tl, sonraki her saat 2 tl, 8 saatten sonra günlük sabit 
                     {
                         ucret = 12;
                     }
-                    else if (kullanimSuresi <= 10)
+                    else if (kullanimSuresi <= 8)
                     {
                         ucret = 12 + (kullanimSuresi - 2) * 3;
                     }
